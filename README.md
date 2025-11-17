@@ -3,10 +3,10 @@ Tested API Requests for Login API (Valid Login, Invalid Login) and the Add Lead/
 
 ## Setup:
 ### Collection:
-> Download [TestFF API Test.postman collection.json] file <br>
+> Download [TestFF API Test.postman_collection.json] file <br>
 > Import file in Collection Import
 
 ### Environment:
-> Download [TestFF.postman environment.json] file <br>
+> Download [TestFF.postman_environment.json] file <br>
 > Import file in Environment Import
 
